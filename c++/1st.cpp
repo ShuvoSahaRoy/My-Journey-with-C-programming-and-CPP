@@ -6,7 +6,7 @@ int main()
     int a,b,c;
     cin>>a>>b;
     c=a+b;
-    cout<<"C="<<c;
+    cout<<"C="<<c<<"\n";
 
     return 0;
 }

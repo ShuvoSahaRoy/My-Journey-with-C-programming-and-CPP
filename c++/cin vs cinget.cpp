@@ -2,7 +2,9 @@
 using namespace std;
 int main()
 {
-    char c;
+    char c,d;
     cin.get(c);
-
+    cout<<c;
+    cin>>d;
+    cout<<d;
 }
